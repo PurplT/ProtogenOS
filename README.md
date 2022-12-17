@@ -1,5 +1,5 @@
 # ProtogenOS
-An operating system!
+An operating system! 
 
 # [Browser](https://www.google.com)
 # [Gmail](https://mail.google.com/mail/u/0/#inbox)
